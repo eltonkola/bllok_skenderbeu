@@ -1,0 +1,16 @@
+
+postsPerPage: 10
+baseUrl: "https://localhost:8000"
+
+websiteName: "Ditari i Gjergj Kastriotit"
+websiteDescription: "Një vit jetë nga ditari i Dragoit të Arbërit"
+
+feedEmail: "eltonkola@gmail.com"
+feedEmailRealName: "Elton Kola"
+
+socials:
+  - "http://eltonkola.com"
+  - "https://github.com/eltonkola/bllok/"
+
+websiteCopyright: "Made with ❤️ by Elton Kola ©"
+language: "en-US"
