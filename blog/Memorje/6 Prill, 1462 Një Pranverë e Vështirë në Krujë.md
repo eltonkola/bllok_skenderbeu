@@ -1,0 +1,17 @@
+# 6 Prill, 1462: Një Pranverë e Vështirë në Krujë
+
+Era e pranverës së butë, e ngarkuar me aromën e luleve të egra, nuk arrin të fshehë ankthin e thellë që mbretëron në Krujë.  Një ankth i ngjashëm me atë që ndjej në shpirt, një ankth që nuk e lejon gjumë të qetë.  Dita e sotme, si shumë të tjera në këtë vit, ka kaluar nën hijen e luftës së pandërprerë kundër pushtuesve osmanë.  Një luftë e gjatë, e lodhshme, që ka tharë tokën dhe ka shterur fuqinë e shpirtit të popullit tim.
+
+Sot kam takuar disa nga komandantët e mi, burra të guximshëm dhe të besueshëm, por edhe ata duken të lodhur, të shtypur nga pesha e përgjegjësisë.  Sytë e tyre, dikur të ndritshëm nga shpresa, tani janë të errët, të zbehtë nga lodhja dhe dëshpërimi i fshehtë.  Biseda jonë ka qenë e shkurtër, e kufizuar te strategjitë ushtarake dhe furnizimet e pakta që arrijnë të mbërrijnë në qytet.  Vështirësitë janë të shumta; furnizimi me ushqim është i pakët, dhe vështirësitë e komunikimit me aleatët tanë perëndimorë janë të dukshme. Papët dhe mbretërit flasin shumë, por ndihma që na vjen është e pakët dhe vonohet.
+
+Këtë vit dimri ka qenë shumë i ashpër, dhe ka shkaktuar humbje të konsiderueshme të bagëtive dhe të të lashtave.  Njerëzit janë në prag të urisë, dhe zemra ime djegjet nga vuajtja e tyre. Kam udhëzuar të gjitha forcat e mia të punojnë për të siguruar sa më shumë ushqime, por burimet janë të kufizuara, dhe frika e urisë mbizotëron gjithandej.  
+
+Më kujtohet një takim që pata disa javë më parë me një grup fshatarësh nga zona e Dibres.  Sytë e tyre, të zgavëruar nga vuajtja, më kanë lënë një shenjë të thellë në zemër.  Ata kërkonin ndihmë, jo vetëm ushqim por edhe shpresë.  Ata kishin humbur të afërmit e tyre, shtëpitë e tyre ishin shkatërruar, dhe toka e tyre ishte e shkretë.  U premtova ndihmë, por e di se premtimet e mia janë të pakta në balancën e vuajtjes së tyre.
+
+Ndërsa nata bie mbi Krujën, mendimet e mia drejtohen edhe përtej kufijve të Shqipërisë.  Dëgjojmë zëra nga Venediku, nga Napoli, nga Franca – zëra që premtojnë ndihmë, por që ende nuk janë materializuar.  A do të na ndihmojnë? A do të kemi forcën për t'i përballuar këto vështirësi? Pyetjet këto janë të rënda dhe nuk më lejojnë të gjej paqe.
+
+Së fundmi, kam pyetur veten nëse luftë e vazhdueshme vlen aq shumë.  E di se duhet të luftojmë për lirinë e popullit tim, për të mbrojtur tokën e paraardhësve tanë.  Por çmimi i kësaj lufte është i lartë, shumë i lartë.  Shikoj rreth vetes dhe shoh fytyrat e lodhura, të mbushura me vuajtje të njerëzve të mi.  Ata meritojnë paqe, ata meritojnë gëzim, ata meritojnë të jetojnë jetë të lumtura.  Por a është e mundur kjo paqe në këtë kohë të vështirë?
+
+Në mes të këtyre mendimeve, më ngushëllon fakti se kemi një ushtri të fortë dhe besnike, e gatshme të luftojë deri në fund për lirinë tonë.  Besimi i tyre në mua është një forcë e madhe, një motiv i fuqishëm që më shtyn përpara, pavarësisht të gjitha vështirësive.
+
+Ndërsa mbyll këtë hyrje, dëgjoj zërat e largët të luftës që zgjohen nga ana tjetër e malit.  Zemra ime rreh me shpejtësi, por nuk do të dorëzohem.  Do të luftoj deri në frymën e fundit, për lirinë e Shqipërisë, për të ardhmen e popullit tim.  Kjo është betimi im, kjo është detyra ime.  Dhe kjo është historia që do t'i tregoj pasardhësve të mi. Dhe ndoshta, dikur, një ditë do të jetë e mundur të shkruaj një hyrje ditari që do të flasë për paqe, jo për luftë.  Por deri atëherë, lufta vazhdon.
