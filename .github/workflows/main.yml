@@ -22,6 +22,7 @@ jobs:
           template: tema
           input: blog
           output: public
+          rootPath: bllok_skenderbeu
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
