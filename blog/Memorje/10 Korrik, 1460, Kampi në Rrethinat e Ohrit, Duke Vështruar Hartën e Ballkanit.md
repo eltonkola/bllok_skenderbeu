@@ -1,3 +1,6 @@
+---
+date: "2024-12-22"
+---
 10 Korrik, 1460, Kampi në Rrethinat e Ohrit, Duke Vështruar Hartën e Ballkanit
 Nata është e qetë, vetëm zhurma e largët e rojeve dhe kënga e një gjinkalle prishin heshtjen. Jam ulur mbi një trung peme, me një hartë të Ballkanit të shtruar para meje, të ndriçuar nga një pishtar që dridhet. Gjurmoj me gisht kufijtë e Arbërisë, atë copë tokë të vogël e të thyer, të rrethuar nga perandori të mëdha e lakmitare.
 Lufta jonë e përditshme është për mbijetesë, për të zmbrapsur valën osmane që kërcënon të na përmbytë. Por në këto momente të rralla qetësie, mendja ime fluturon përtej betejave të nesërme. Pyes veten: çfarë Arbërie dua t'u lë trashëgim atyre që do të vijnë pas meje? Cili është vizioni im për këtë vend, nëse Zoti na jep fitoren dhe paqen?

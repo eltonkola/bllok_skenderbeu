@@ -1,3 +1,6 @@
+---
+date: "2024-12-08"
+---
 20 Janar, 1462, Kështjella e Krujës, Dimër i Vështirë dhe Lidhja e Lezhës
 Ky dimër po na provon të gjithëve. Bora ka mbuluar malet dhe ka izoluar shumë nga kështjellat tona. Furnizimet janë pakësuar, dhe lajmet nga viset e largëta vijnë me vonesë e shpesh kontradiktore. Sulltan Mehmeti, pas dështimit të fushatës së fundit, nuk ka hequr dorë. Përkundrazi, po mbledh forca të reja dhe po përdor dinakërinë e tij për të mbjellë përçarje mes nesh.
 Sot, në Këshillin e Luftës, atmosfera ishte e rëndë. Lekë Dukagjini, ai kokëforti krenar, solli lajme se disa fisnikë më të vegjël në veri po ngurrojnë të dërgojnë kontingjentet e tyre të premtuara, duke u justifikuar me dimrin e ashpër. Dyshoj se prapa këtij ngurrimi fshihen premtime të arta nga agjentët e Sulltanit.

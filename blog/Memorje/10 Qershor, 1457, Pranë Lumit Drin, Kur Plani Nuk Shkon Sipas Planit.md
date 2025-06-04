@@ -1,3 +1,6 @@
+---
+date: "2024-12-21"
+---
 10 Qershor, 1457, Pranë Lumit Drin, Kur Plani Nuk Shkon Sipas Planit
 Eh, sa herë kam thënë se edhe plani më i mirë mund të prishet nga një mizë e padëshiruar apo, si në rastin e sotëm, nga një tufë dhish kokëforta! Ishim nisur para agimit, një grup i vogël komandosh – unë, Moisiu, dhe nja dhjetë nga më të shkathëtit tanë. Qëllimi: të sulmonim nga prapa një kamp të vogël osman që shërbente si pikë furnizimi për trupat që patrullonin luginën e Drinit. Plani ishte i thjeshtë: të afroheshim pa u ndjerë nëpër shtigjet e ngushta malore, të eliminonim rojet, të vinim zjarrin furnizimeve dhe të zhdukeshim para se të kuptonin se çfarë i gjeti.
 Gjithçka po shkonte për mrekulli. Lëviznim si hije, duke shfrytëzuar çdo shkëmb e shkurre për t'u fshehur. Moisiu, si gjithmonë, ishte si një fantazmë, duke na udhëhequr me siguri. Ishim pothuajse në pozicionin e duhur, vetëm pak metra larg rojeve të para që, siç e prisnim, po dremisnin nën diellin e mëngjesit.

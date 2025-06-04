@@ -1,3 +1,6 @@
+---
+date: "2024-12-24"
+---
 7 Maj, 1462, Kopshtet e Kështjellës së Krujës, Hapat e Parë të njëTrashëgimtari
 Dielli i pranverës ngrohte butësisht gurët e lashtë të Krujës. Unë isha ulur në një stol guri në kopsht, duke u përpjekur të lexoja disa raporte nga zbuluesit tanë, por vëmendja ime ishte gjetkë. Ishte te Gjoni, biri im i vogël, që po përpiqej të hidhte hapat e tij të parë në barin e njomë, i mbajtur nga duart e sigurta të Donikës.
 Ai është ende aq i vogël, aq i brishtë. Por në sytë e tij shoh një shkëndijë, një vendosmëri që më kujton... mua vetë, kur isha fëmijë. Sa herë që rrëzohej, qante pak, por pastaj ngrihej përsëri, i vendosur të ecte. Një Kastriot i vërtetë!

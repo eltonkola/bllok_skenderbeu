@@ -1,3 +1,6 @@
+---
+date: "2024-12-25"
+---
 5 Qershor, 1465, Nën Hijen e Malit të Tomorrit, Para një Beteje të Pritshme
 Hëna sonte duket si një sy i madh i argjendtë që vështron mbi ne. Ushtria fle, ose të paktën përpiqet të flejë, para betejës së madhe që na pret nesër në agim. Unë nuk mund të fle. Mendimet më vërshojnë si lumi i trazuar.
 Prej ditësh, një plak nga këto anë, që thonë se flet me zërat e malit dhe kupton gjuhën e shqiponjave, më ka dërguar fjalë të çuditshme. Ai thotë se Tomorri, ky mal i shenjtë që ngrihet si një kështjellë natyrore, do të jetë në anën tonë. Thotë se ka parë në ëndërr shpirtrat e luftëtarëve të lashtë ilirë që do të zbresin nga majat për të luftuar krah nesh.

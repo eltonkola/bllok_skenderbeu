@@ -1,3 +1,6 @@
+---
+date: "2024-12-18"
+---
 12 Prill, 1452, Kështjella e Krujës
 
 Eh, ç'javë kjo që shkoi! Më duket sikur pashë më shumë letra e pergamenë sesa majën e shpatës. Ambasadorë nga Venediku, pastaj të Papës, pastaj ca fisnikë tanët që ankohen për kullotat e njëri-tjetrit thua se Sulltani po pret të zgjidhin ata hallet e tyre para se të na bjerë këtu si rrufeja. Ndonjëherë mendoj se më lehtë është të përballesh me një ushtri jeniçerësh sesa me diplomacinë e dredharakëve të Raguzës apo fodullëkun e ndonjë princi italian që mendon se bota sillet rreth çizmes së tij të lustruar.

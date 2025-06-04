@@ -1,3 +1,6 @@
+---
+date: "2024-12-20"
+---
 11 Nëntor, 1466, Kampi dimëror pranë Durrësit
 Shiu bie pa pushim mbi tendën time, një ritëm monoton që pasqyron disi edhe gjendjen time shpirtërore. Dimri po afron me të shpejtë dhe bashkë me të edhe një lloj qetësie e detyruar në frontin e luftës. Por paqja e vërtetë është ende larg, aq larg sa ndonjëherë duket si një ëndërr e paarritshme.
 Këto javë i kam kaluar duke u përpjekur të forcoj aleancat tona, veçanërisht me Venedikun dhe Mbretin Ferdinand të Napolit. Letra pa fund, ambasadorë që shkojnë e vijnë. Secili premton ndihmë, por kur vjen puna te veprat konkrete, fjalët mbeten shpesh vetëm fjalë. Venedikasit janë më të shqetësuar për tregtinë e tyre në Levant sesa për fatin tonë. Ata na shohin si një mburojë të dobishme, por jo si një aleat të barabartë. Mbreti Ferdinand, i rrethuar nga armiqtë e tij në Itali, ka hallet e veta. Më dërgon fjalë inkurajuese dhe ndonjë shumë të vogël parash, por ajo që na duhet neve është mbështetje ushtarake e qëndrueshme, armë, artileri.

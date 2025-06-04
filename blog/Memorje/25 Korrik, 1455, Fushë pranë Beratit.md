@@ -1,3 +1,6 @@
+---
+date: "2024-12-05"
+---
 25 Korrik, 1455, Fushë pranë Beratit
 
 Balta. Gjaku. Djersa. Kjo është aroma e fitores sot, miqtë e mi. Dhe tingulli? Tingulli i betejës që shuhet dalëngadalë, i psherëtimave të të plagosurve tanë (Zoti u dhëntë shërim!) dhe rënkimeve të armiqve të mbetur në fushë. Fitore, po! Por me ç'kosto.

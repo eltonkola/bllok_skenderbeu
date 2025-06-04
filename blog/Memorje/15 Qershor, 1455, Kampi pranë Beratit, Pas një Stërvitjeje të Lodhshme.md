@@ -1,3 +1,6 @@
+---
+date: "2024-12-13"
+---
 15 Qershor, 1455, Kampi pranë Beratit, Pas një Stërvitjeje të Lodhshme
 Dielli po perëndon dhe era e mbrëmjes sjell një freski të mirëpritur pas një dite të gjatë e të nxehtë stërvitjeje. Rekrutët e rinj janë shtrirë ku të mundin, duke gulçuar si peshqit pa ujë. Disa prej tyre duken sikur kanë luftuar me dhjetë jeniçerë secili, ndërkohë që vetëm sa janë përleshur me thasë të mbushur me kashtë dhe shpata druri. Ah, rinia! Plot zjarr, por ende pa qëndrueshmërinë e duhur.
 Sot, Moisiu, me atë seriozitetin e tij karakteristik, po u mësonte disa lëvizje të reja me shpatë. Një djalosh nga Shpati, i gjatë e i hollë si një shelg, e ngatërroi aq shumë lëvizjen sa për pak sa nuk i preu veshin shokut të tij. Moisiu ndaloi, e pa gjatë dhe tha me zë të thatë: "Bir, ti po përpiqesh të korrësh grurë apo të luftosh? Nëse vazhdon kështu, armiku do të vdesë së qeshuri para se ti ta prekësh me shpatë." Të gjithë shpërthyen në gaz, përfshirë edhe djaloshin e shkretë që u skuq si speci. Por e pashë që më vonë po e praktikonte lëvizjen me më shumë kujdes. Ndonjëherë, pak humor therës bën më shumë punë se dhjetë fjalime.

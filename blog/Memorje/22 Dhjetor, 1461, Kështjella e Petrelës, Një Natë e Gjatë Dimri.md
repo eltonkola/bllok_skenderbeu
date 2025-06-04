@@ -1,3 +1,6 @@
+---
+date: "2024-12-07"
+---
 22 Dhjetor, 1461, Kështjella e Petrelës, Një Natë e Gjatë Dimri
 Era fërshëllen si një shpirt i humbur rreth mureve të Petrelës. Bora ka mbuluar gjithçka, duke krijuar një heshtje të çuditshme, pothuajse të frikshme. Jam vetëm në dhomën time, pranë zjarrit që kërcet në oxhak. Ushtarët flenë, por unë nuk mundem. Sonte, demonët e mi të brendshëm janë më të zhurmshëm se kurrë.
 Nuk janë jeniçerët apo spahinjtë ata që më trembin sonte. Janë dyshimet. Ato zvarriten në mendjen time si gjarpërinj helmues. A jam duke bërë gjënë e duhur? A ia vlen gjithë ky gjak, gjithë kjo vuajtje? Çfarë nëse, në fund, gjithçka do të jetë e kotë? Çfarë nëse Arbëria është e destinuar të bjerë, pavarësisht gjithë përpjekjeve të mia?

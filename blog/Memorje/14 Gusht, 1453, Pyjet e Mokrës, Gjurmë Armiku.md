@@ -1,3 +1,6 @@
+---
+date: "2024-12-15"
+---
 14 Gusht, 1453, Pyjet e Mokrës, Gjurmë Armiku
 Nata ishte aq e errët sa mund ta prekje me dorë. Vetëm unë, Moisiu besnik dhe tre nga djemtë tanë më të shkathët, të veshur me lëkura kafshësh për t'u përzier me hijet e pyllit. Kishim lënë kampin kryesor disa orë më parë. Zbuluesit kishin raportuar për një kolonë të madhe furnizimi osmane që po lëvizte fshehurazi përmes Grykës së Shkumbinit, duke synuar të furnizonte garnizonin e rrethuar të Beratit. Nuk mund ta lejonim këtë.
 "Gjergj, je i sigurt për këtë?" më pëshpëriti Moisiu, zëri i tij mezi dëgjohej mbi fëshfërimën e gjetheve. "Mund të dërgonim një njësi më të madhe."

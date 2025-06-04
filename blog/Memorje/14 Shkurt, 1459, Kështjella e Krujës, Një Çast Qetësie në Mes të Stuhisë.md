@@ -1,3 +1,6 @@
+---
+date: "2024-12-14"
+---
 14 Shkurt, 1459, Kështjella e Krujës, Një Çast Qetësie në Mes të Stuhisë
 Sot, ndërsa jashtë bie një shi i imët e monoton, gjeta pak kohë për të qëndruar pranë Donikës. Ishim ulur pranë dritares në dhomën tonë, duke vështruar retë që vraponin mbi majat e maleve. Ajo po qëndiste një copë pëlhure me fije ari, një nga ato punimet e saj delikate që më mahnisin gjithmonë me durimin dhe mjeshtërinë që kërkojnë. Unë, si zakonisht, po luaja me dorezën e shpatës sime, duke menduar për betejat e ardhshme.
 Për një kohë të gjatë nuk folëm. Heshtja mes nesh nuk është kurrë e rëndë apo e sikletshme. Përkundrazi, është një heshtje plot kuptim, një komunikim pa fjalë që vetëm dy shpirtra që njihen thellë mund ta kenë.

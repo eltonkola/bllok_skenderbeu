@@ -1,3 +1,6 @@
+---
+date: "2024-12-26"
+---
 5 Prill, 1461, Biblioteka e Manastirit të Ardenicës, Mes Teksteve të Vjetra
 Kam gjetur disa ditë qetësie për të vizituar Manastirin e Ardenicës, një nga qendrat tona të pakta të dijes dhe lutjes që ka mbijetuar stuhitë e kohës. Murgjit këtu ruajnë një bibliotekë të vogël por të çmuar, me dorëshkrime të vjetra në greqisht, latinisht dhe, ç'është më e rëndësishmja, disa fragmente në gjuhën tonë të lashtë arbërore.
 Kalova orë të tëra i ulur në qelinë e ftohtë të bibliotekës, duke shfletuar këto pergamena të zverdhura, duke u përpjekur të deshifroj shkrimet e mjegulluara. Ishte si të bisedoje me fantazmat e së kaluarës. Këtu gjeta referenca për mbretër ilirë si Genti dhe Teuta, për rezistencën e tyre kundër Romës. Gjeta himne të hershme të krishtera, të përkthyera në gjuhën tonë, dëshmi e besimit tonë të lashtë.

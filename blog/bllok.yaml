@@ -1,6 +1,6 @@
 
 postsPerPage: 10
-baseUrl: "https://localhost:8000"
+baseUrl: "https://eltonkola.github.io/bllok_skenderbeu"
 
 websiteName: "Ditari i Gjergj Kastriotit"
 websiteDescription: "Një vit jetë nga ditari i Dragoit të Arbërit"
@@ -13,4 +13,4 @@ socials:
   - "https://github.com/eltonkola/bllok/"
 
 websiteCopyright: "Made with ❤️ by Elton Kola ©"
-language: "en-US"
+language: "sq-AL"

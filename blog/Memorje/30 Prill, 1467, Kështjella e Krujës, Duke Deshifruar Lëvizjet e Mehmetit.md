@@ -1,3 +1,7 @@
+---
+date: "2024-12-01"
+---
+
 30 Prill, 1467, Kështjella e Krujës, Duke Deshifruar Lëvizjet e Mehmetit
 Sulltan Mehmeti, "Pushtuesi", është një armik i frikshëm. Jo vetëm për shkak të ushtrive të tij të panumërta dhe artilerisë së tij të fuqishme, por edhe për shkak të mendjes së tij dinake e të paparashikueshme. Ai është një shahist i shkëlqyer, që luan në shumë tabela njëkohësisht, duke përdorur forcën, mashtrimin, diplomacinë dhe korrupsionin për të arritur qëllimet e tij.
 Prej vitesh, lufta jonë me të ka qenë si një lojë e pafund macja me miun. Ai dërgon ushtri masive për të na shkatërruar, ne i tërheqim në terrenin tonë malor, i godasim në befasi, i copëtojmë dhe i detyrojmë të tërhiqen me humbje të mëdha. Ai rrethon kështjellat tona, ne rezistojmë me heroizëm derisa ai detyrohet të heqë dorë.

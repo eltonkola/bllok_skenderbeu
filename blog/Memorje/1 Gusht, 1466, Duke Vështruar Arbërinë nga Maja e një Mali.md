@@ -1,3 +1,6 @@
+---
+date: "2024-12-31"
+---
 1 Gusht, 1466, Duke Vështruar Arbërinë nga Maja e një Mali
 Kam kaluar ditën duke inspektuar pozicionet tona mbrojtëse në malet veriore. Një udhëtim i gjatë e i mundimshëm, por ia vlente. Nga maja më e lartë, pamja ishte madhështore. Poshtë meje shtrihej Arbëria, si një qilim i gjelbër i thurur me lumenj të argjendtë e kështjella të gurtë. Dielli i pasdites i hidhte një dritë të artë gjithçkaje, duke e bërë edhe më të bukur këtë tokë të bekuar e të mallkuar njëkohësisht.
 E ndërsa vështroja këtë pamje, ndjeva sërish atë dashuri të fuqishme, pothuajse të dhimbshme, që kam për këtë vend. Kjo nuk është thjesht një copë tokë për mua. Kjo është shtëpia ime, djepi i të parëve të mi, vendi ku janë varrosur heronjtë tanë. Çdo gur, çdo pemë, çdo burim uji ka një histori për të treguar, një kujtim për të ruajtur.

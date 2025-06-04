@@ -1,3 +1,6 @@
+---
+date: "2024-12-02"
+---
 30 Mars, 1456, Diku në Rrethinat e Sfetigradit, Një "Vizitë" e Papritur
 Pranvera ka ardhur me gjithë bukurinë e saj, por lulet më të bukura për mua mbeten ato që çelin pas një fitoreje të sigurt. Këto ditë kemi qenë duke i rënë në qafë garnizonit osman të Sfetigradit, duke i ngacmuar, duke ua prerë linjat e furnizimit, duke i bërë të flejnë me një sy hapur. Ata janë strukur brenda mureve si minjtë në vrimë, por herë pas here nxjerrin kokën.
 Sot, më lindi një ide paksa... e guximshme, le të themi. Ose e marrë, siç do të thoshte Vrana Konti po ta dinte më parë. Më thanë se komandanti i ri i Sfetigradit, një farë Hasan Beu, ishte një fodull i madh që mburrej se "Skënderbeu nuk guxon t'i afrohet as hijes së mureve të tij". Kjo mburrje duhej ndëshkuar.

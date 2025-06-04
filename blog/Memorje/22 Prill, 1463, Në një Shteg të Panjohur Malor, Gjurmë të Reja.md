@@ -1,3 +1,6 @@
+---
+date: "2024-12-06"
+---
 22 Prill, 1463, Në një Shteg të Panjohur Malor, Gjurmë të Reja
 Kemi tri ditë që marshojmë nëpër këto male të egra e të panjohura, duke u përpjekur t'i dalim armikut nga pas. Rruga është e vështirë, shtigjet janë të ngushta e të rrëpira, dhe shpesh duhet të hapim vetë rrugë mes shkurreve e gurëve. Por unë nuk ankohem. Përkundrazi, ndihem gjallë këtu, në zemër të natyrës së paprekur të Arbërisë.
 Këto male nuk janë vetëm një sfond për betejat tona. Ato janë aleatët tanë më të fuqishëm. Ato na ofrojnë strehë, na fshehin nga sytë e armikut, na japin pozicione strategjike të paarritshme. Osmanët, me kalorësinë e tyre të rëndë dhe artilerinë e tyre masive, humbasin fuqinë e tyre në këto gryka të ngushta e shpate të pjerrëta. Këtu, jemi ne ata që vendosim rregullat e lojës.

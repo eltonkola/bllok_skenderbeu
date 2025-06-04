@@ -1,3 +1,6 @@
+---
+date: "2024-12-17"
+---
 12 Shtator, 1465, Duke Ecur Mes Rrënojave të një Katundi të Djegur nga Osmanët
 Pamja është zemërthyese. Shtëpi të djegura, ara të shkelura, kudo era e tymit dhe e vdekjes. Ky katund, dikur plot jetë e të qeshura fëmijësh, tani është vetëm një dëshmi e brutalitetit të armikut. Ndërsa ec mes rrënojave, duke folur me të mbijetuarit e paktë, zemra më mbushet me një përzierje zemërimi dhe vendosmërie.
 Kjo nuk mund të jetë e ardhmja e popullit tim! Nuk mund të jetojmë përgjithmonë nën kërcënimin e shkatërrimit, duke rindërtuar vetëm për të parë gjithçka të bëhet shkrumb e hi përsëri. Vizioni im për Arbërinë shkon përtej fitoreve ushtarake. Unë ëndërroj për një popull të begatë, të arsimuar, që gëzon frytet e punës së tij në paqe e siguri.

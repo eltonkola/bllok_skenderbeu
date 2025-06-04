@@ -1,3 +1,6 @@
+---
+date: "2024-12-09"
+---
 20 Dhjetor, 1463, Duke u kthyer nga Roma, Mendime mbi Detin Adriatik
 Anija jonë e vogël çan valët e Adriatikut, duke më çuar përsëri drejt brigjeve të Arbërisë. Vizita ime në Romë ishte një përzierje shprese dhe zhgënjimi. Papa dhe kardinalët më pritën me nderime, më quajtën "Atlet i Krishtit", por ndihma konkrete ishte e pakët. Evropa duket e zënë me grindjet e saj, e verbër ndaj rrezikut që po vjen nga Lindja.
 Megjithatë, unë nuk e humbas besimin te vendi ynë në Evropë. Arbëria nuk është një ishull i izoluar. Ne jemi pjesë e kësaj familjeje të madhe të kombeve të krishtera, edhe pse shpesh ndihemi si një anëtar i harruar apo i keqtrajtuar. Vizioni im për të ardhmen është një Arbëri e integruar plotësisht në botën evropiane, jo vetëm si një mburojë ushtarake, por si një partnere e barabartë në kulturë, tregti dhe besim.

@@ -1,3 +1,6 @@
+---
+date: "2024-12-27"
+---
 5 Nëntor, 1460, Krujë, Pesha e Kurorës (ose e Përkrenares)
 Këto ditë të ftohta vjeshte më gjejnë shpesh duke soditur nga dritarja e kullës sime në Krujë. Mjegulla mbulon luginat poshtë, si një det i bardhë që fsheh botën. Ndonjëherë do të doja të fshihesha edhe unë në atë mjegull, të shpëtoja për pak nga barra e rëndë që mbaj mbi supe.
 Sot pata një këshill të gjatë e të lodhshëm me krerët kryesorë. Temë diskutimi: oferta e fundit e Sulltan Mehmetit për një armëpushim trevjeçar. Kushtet, në pamje të parë, duken joshëse. Ai njeh sundimin tim mbi territoret që kontrollojmë, premton të mos sulmojë, madje ofron edhe një tribut vjetor. Disa nga këshilltarët e mi, veçanërisht ata më të moshuarit e më të lodhurit nga lufta e gjatë, anojnë nga pranimi i ofertës. "Populli ka nevojë për paqe, Gjergj," më tha njëri prej tyre. "Tokat janë djerrë, tregtia ka rënë, djemtë tanë po vriten brez pas brezi."

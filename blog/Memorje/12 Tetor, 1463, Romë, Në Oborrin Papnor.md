@@ -1,3 +1,6 @@
+---
+date: "2024-12-16"
+---
 Muret e Vatikanit janë madhështore, të mbushura me art e histori. Por unë nuk kam ardhur këtu për të admiruar afresket e Mikelanxhelos apo për të dëgjuar koret engjëllore. Kam ardhur si një lypës krenar, një princ pa mbretëri por me një popull që lufton për jetën e tij. Kam ardhur për të kërkuar ndihmën që Papa Piu II na kishte premtuar para se të ndahej nga kjo jetë.
 Papa Pali II, pasardhësi i tij, më priti me nderime. Është një njeri i arsimuar, por sytë e tij kanë atë vështrimin e kujdesshëm të një politikani më shumë sesa zjarrin e një kryqtari. I fola për betejat tona, për sakrificat e popullit tim, për rrezikun që i kanoset gjithë Krishterimit nëse Arbëria bie. I tregova për mizoritë e osmanëve, për kishat e djegura, për fëmijët e marrë peng.
 Ai më dëgjoi me vëmendje, duke tundur kokën herë pas here. Pastaj foli për vështirësitë e Kishës, për grindjet mes princërve evropianë, për thesarin e zbrazur. Fjalë të njohura. Të njëjtat justifikime që kam dëgjuar edhe nga Venediku, edhe nga Napoli, edhe nga Hungaria.

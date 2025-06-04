@@ -1,3 +1,6 @@
+---
+date: "2024-12-10"
+---
 19 Mars, 1454, Kampi pranë Danjës, Negociata të Vështira me Serenissimën
 Ambasadorët e Venedikut u larguan sot nga kampi im, duke lënë pas një përzierje premtinesh të mjegullta dhe kërkesash arrogante. Këta tregtarë dinakë të Serenissimës! Ata e dinë se Arbëria është mburoja e tyre kundër osmanëve, por prapëseprapë përpiqen të përfitojnë nga çdo situatë, të nxjerrin çdo pikë të fundit të avantazhit.
 Prej javësh kemi qenë në negociata për një traktat të ri aleance. Unë kërkoj mbështetje ushtarake më të konsiderueshme – anije për të bllokuar portet osmane, artileri moderne, mercenarë të stërvitur. Ata, nga ana tjetër, ankohen për "veprimet e piratëve shqiptarë" (që në fakt janë luftëtarët tanë detarë që mbrojnë brigjet tona dhe ndërpresin furnizimet armike) dhe kërkojnë privilegje tregtare gjithnjë e më të mëdha në portet tona.

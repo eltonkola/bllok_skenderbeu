@@ -1,3 +1,6 @@
+---
+date: "2024-12-23"
+---
 10 Janar, 1468, Lezhë, Në Shtratin e Sëmundjes
 Trupi im, ky trup që ka përballuar kaq shumë beteja, kaq shumë dimra të ashpër e verëra përvëluese, po më tradhton. Ethet më djegin nga brenda dhe forcat po më lënë dita-ditës. Mjekët përpiqen të më japin kurajë, por unë e shoh në sytë e tyre – dhe e ndiej në kockat e mia – se fundi është afër. Dragoi i Arbërit, siç më quajnë, po përgatitet për fluturimin e tij të fundit.
 Nuk kam frikë nga vdekja. E kam parë atë kaq herë në sy në fushëbetejë, saqë jemi bërë si miq të vjetër. Ajo që më shqetëson është se çfarë do të lë pas. Arbëria ime e dashur, ende e kërcënuar, ende e paqëndrueshme. Gjoni im i vogël, ende kaq i ri për të mbajtur mbi supe peshën e një trashëgimie kaq të rëndë. Donika ime e shtrenjtë, që do të mbetet vetëm për të përballuar dhimbjen dhe sfidat.

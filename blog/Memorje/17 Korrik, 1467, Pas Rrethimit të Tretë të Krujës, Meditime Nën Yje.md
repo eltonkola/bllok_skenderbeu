@@ -1,3 +1,6 @@
+---
+date: "2024-12-12"
+---
 Muret e Krujës qëndruan. Përsëri. Sulltan Mehmeti, ai vetë, erdhi me gjithë fuqinë e perandorisë së tij, me topa që villnin zjarr e vdekje, me jeniçerë që sulmonin si bisha të tërbuara. Dhe u largua i mundur, i turpëruar, duke lënë pas mijëra të vdekur dhe një emër të përgjakur.
 Sonte, ndërsa garnizoni feston dhe plagët fillojnë të mjekohen, unë jam ngjitur në pikën më të lartë të kështjellës, aty ku valëvitet flamuri ynë me shqiponjën dykrenare. Yjet shkëlqejnë në qiellin e pastër, të panumërta, të heshtura, dëshmitare të përjetshme të dramave njerëzore.
 Pyes veten: çfarë mendojnë këto yje kur shohin poshtë këtë copëz toke të vogël, ku njerëzit vriten me egërsi për ca pëllëmbë dhé, për ca ide, për ca emra perëndish? A qeshin me marrëzinë tonë? Apo ndoshta, në pafundësinë e tyre, gjejnë diçka fisnike në këtë luftë të pabarabartë për liri?

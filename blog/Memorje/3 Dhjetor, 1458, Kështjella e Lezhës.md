@@ -1,3 +1,6 @@
+---
+date: "2024-12-29"
+---
 3 Dhjetor, 1458, Kështjella e Lezhës
 Moti është ftohur, ashtu si marrëdhëniet tona me Venedikun. Këta tregtarë dinakë! Një ditë të dërgojnë urime për fitoret, ditën tjetër ankohen se piratët tanë (të cilët ata i quajnë kështu, por unë i quaj luftëtarë deti që mbrojnë brigjet tona) po u "shqetësojnë" anijet. A thua se anijet e tyre nuk sjellin furnizime për garnizonet osmane në Durrës apo Shkodër kur u leverdis? Hipokritë!
 Sot pata një takim të gjatë me Pal Engjëllin. Ai njeri ka një mendje të mprehtë dhe një zemër të madhe për Arbërinë. Po diskutonim për mundësinë e një lidhjeje më të fortë me Mbretin Alfons të Napolit. Ai duket më i sinqertë në dëshirën e tij për të ndihmuar, ndoshta sepse osmanët i ka më afër dyerve të veta. Por edhe ai, ka interesat e tij. Të gjithë kanë interesat e tyre. Vetëm ne, shqiptarët, duket se luftojmë për diçka më të madhe se vetja: për tokën tonë, për besimin tonë, për të mos u zhdukur nga faqja e dheut.

@@ -1,3 +1,6 @@
+---
+date: "2024-12-11"
+---
 18 Maj, 1461, Në një pyll pranë Petrelës
 Dielli i majit ka filluar të ngrohë mirë e mirë. Pyjet janë mbushur me gjelbërim e cicërima zogjsh, aq sa për një çast harron se lufta është vetëm një frymëmarrje larg. Këto ditë i kam kaluar duke inspektuar prapavijën tonë, duke parë se si po riorganizohen njësitë pas dimrit dhe si po mbushen depot me ushqime e armatime. Nuk mjafton vetëm trimëria në fushëbetejë; një ushtri marshon me barkun plot dhe me shigjeta në trastë.
 Sot, ndërsa po kaloja pranë një përroi, dëgjova zëra e të qeshura. U afrova pa zhurmë dhe pashë një grup ushtarësh të rinj që po laheshin e po luanin me ujë si fëmijë. Njëri prej tyre, një djalosh thatim nga Mirdita me flokë të kuqërremtë, po imitonte mua duke dhënë urdhra me një degë druri si shpatë. "Përpara, o trima! Thyeni ata qafira! Kujdes se mos lagni mustaqet e mia madhështore!" Të tjerët shkriheshin së qeshuri. Në fillim u stepa, por pastaj nuk mbajta dot gazin edhe unë. Kur më panë, ngelën si të ngrirë, me sytë sa kupa. Djaloshi flokëkuq u bë i bardhë si bora.

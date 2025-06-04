@@ -1,3 +1,6 @@
+---
+date: "2024-12-19"
+---
 11 Shtator, 1464, Pas zbulimit të komplotit të Hamza Kastriotit (ose një tjetër tradhtari)
 Nata është e errët, po aq e errët sa shpirti im sonte. Nuk ka armik më të hidhur se ai që dikur e ke quajtur mik, vëlla, apo si në këtë rast, nip. Lajmi për tradhtinë e Hamzait më ka goditur si një thikë në zemër. Ai, gjaku im, biri i vëllait tim, të kalojë në anën e armikut! Të shesë nderin dhe atdheun për një grusht florinjsh dhe premtime të rreme nga Sulltani!
 Nuk mund ta besoj. Ende nuk dua ta besoj. E kam rritur si djalin tim. I kam mësuar artin e luftës, i kam besuar komandën e trupave. Dhe ai ma shpërblen kështu? Duke u përpjekur të më vrasë? Duke komplotuar për të dorëzuar Krujën?

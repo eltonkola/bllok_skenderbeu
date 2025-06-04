@@ -1,3 +1,6 @@
+---
+date: "2024-12-04"
+---
 25 Korrik, 1464, Pas Betejës së Ohrit, Letër për Papën Pali II
 Fitore! Një tjetër fitore e madhe kundër hordhive osmane. Fusha e Ohrit është larë me gjakun e armikut. Sheremet Beu u mund dhe u turpërua. Por kjo fitore, si gjithë të tjerat, është blerë me çmim të lartë. Shumë nga trimat tanë nuk do t'i shohin më familjet e tyre.
 Ndërsa ushtarët festojnë dhe mjekët kujdesen për të plagosurit, unë jam ulur në tendën time, duke shkruar një letër për Shenjtërinë e Tij, Papën Pali II. Duhet ta informoj për këtë fitore, jo për t'u mburrur, por për t'i kujtuar se lufta jonë është edhe lufta e tij, lufta e gjithë Krishterimit.

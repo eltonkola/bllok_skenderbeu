@@ -1,3 +1,6 @@
+---
+date: "2024-12-30"
+---
 2 Shtator, 1464, Pas Betejës së Ohrit (Vaikal)
 Pluhur. Erë gjaku. Rënkime. Kjo është simfonia e tmerrshme që ende më kumbon në veshë, edhe pse dielli ka perënduar mbi këtë fushë të mallkuar. Fitorja ka një shije të hidhur sot, një shije hiri e lotësh. Po, i thyem sërish. Po, ushtria e Sheremet Beut u shpartallua dhe ai vetë mezi shpëtoi kokën duke ikur si një frikacak. Por sa nga djemtë tanë nuk do ta shohin më diellin të lindë mbi malet e Arbërit?
 Ishte një nga ato beteja ku fati varej në fije të perit. Sheremeti, i mësuar me fitoret e lehta kundër ushtrive të tjera ballkanike, na nënvlerësoi. Mendonte se duke na sulmuar në fushë të hapur, me kalorësinë e tij të shumtë, do të na shtypte. Harroi se ujku i malit lufton me dinakëri edhe në fushë.
