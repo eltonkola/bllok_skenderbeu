@@ -4,74 +4,67 @@ import google.generativeai as genai
 import sys
 import random
 from dotenv import load_dotenv
-import locale # For month names, though AI might handle it
+import locale # Crucial for Albanian month names in strftime
+import re
+import dateparser # For parsing dates from AI text
 
 # --- Configuration ---
-load_dotenv() # Load .env file if present (for local testing)
+load_dotenv()
 
 API_KEY = os.environ.get("GEMINI_API_KEY")
 if not API_KEY:
     print("Error: GEMINI_API_KEY environment variable not set.")
-    print("Ensure it's set in your environment or in a .env file in the project root.")
     sys.exit(1)
 
-# --- Skanderbeg's Lifespan ---
-SKANDERBEG_BIRTH_YEAR = 1405
-SKANDERBEG_BIRTH_MONTH = 1
-SKANDERBEG_BIRTH_DAY = 1
-
-SKANDERBEG_DEATH_YEAR = 1468
-SKANDERBEG_DEATH_MONTH = 1
-SKANDERBEG_DEATH_DAY = 17
+# --- Skanderbeg's Lifespan (ONLY for generating context for AI prompt) ---
+SKANDERBEG_BIRTH_YEAR_CONTEXT = 1405
+SKANDERBEG_BIRTH_MONTH_CONTEXT = 1
+SKANDERBEG_BIRTH_DAY_CONTEXT = 1
+SKANDERBEG_DEATH_YEAR_CONTEXT = 1468
+SKANDERBEG_DEATH_MONTH_CONTEXT = 1
+SKANDERBEG_DEATH_DAY_CONTEXT = 17
 
 # --- Updated PROMPT_TEMPLATE ---
+# Emphasize Albanian date format in the H1 example more clearly.
 PROMPT_TEMPLATE = """
-Ti je Gjergj Kastrioti, Skënderbeu. Shkruaj një hyrje ditari për datën {random_date_for_ai_context}.
-Postimi duhet të jetë rreth 1000-2000 fjalë, në format Markdown dhe i shkruar në gjuhën shqipe.
+Ti je Gjergj Kastrioti, Skënderbeu. Shkruaj një hyrje ditari për datën {random_date_for_ai_context_albanian}.
+Postimi duhet të jetë rreth 1000-2000 fjalë, në format Markdown dhe i shkruar plotësisht në gjuhën shqipe.
 Mund të jetë serioz, argëtues ose i zakonshëm, duke reflektuar mbi çdo zhvillim interesant, ngjarje ose mendim nga epoka jote.
 
 RRJESHTI I PARË I PËRGJIGJES TËNDE DUHET TË JETË NJË TITULL H1 i Markdown-it.
-KY TITULL VETË DUHET TË PËRFSHIJË DATËN E HYRJES NË FORMË TË PLOTË (p.sh., muaji, dita, viti).
-Për shembull, nëse hyrja është për 14 Shtator 1456, titulli mund të jetë:
+KY TITULL VETË DUHET TË PËRFSHIJË DATËN E HYRJES NË FORMË TË PLOTË SHQIP (dita, emri i muajit në shqip, viti).
+Për shembull, nëse data e dhënë është "14 Shtator, 1456", titulli yt mund të jetë:
 # 14 Shtator, 1456: Një Ditë e Rëndësishme në Krujë
-Ose një shembull tjetër:
-# Ditari im, Korrik 7, 1448: Mendime mbi Aleancat e Reja
+Ose, nëse data e dhënë është "3 Nëntor, 1462", titulli yt mund të jetë:
+# 3 Nëntor, 1462: Duke Udhëtuar Nëpër Malësinë e Veriut, Histori Rreth Zjarrit
 
-Mos përfshi një seksion të veçantë "Data e Publikimit" ose "Autori" në trupin e postimit,
-pasi titulli H1 dhe emri i skedarit do ta trajtojnë këtë.
+Mos përfshi një seksion të veçantë "Data e Publikimit" ose "Autori" në trupin e postimit.
 Përqendrohu në autenticitetin historik të përzier me rrëfim tërheqës.
 Sigurohu që i gjithë teksti, përfshirë titullin, të jetë në shqip.
 """
 
-# Output directory for the blog posts
-OUTPUT_DIR = "blog/Memorje" # Your specified directory
-# Filename prefix (fallback if title extraction fails badly)
-FILENAME_PREFIX = "kujtime-skenderbeut" # Albanian prefix
+OUTPUT_DIR = "blog/Memorje"
+FILENAME_TITLE_FALLBACK = "Kujtime Skenderbeut"
+MODEL_NAME = "gemini-1.5-flash-latest"
 
-# Gemini model configuration
-MODEL_NAME = "gemini-1.5-flash-latest" # Or "gemini-pro"
-
-# --- Helper Function for Random Date ---
-def get_random_date_in_skanderbeg_era():
-    start_date = datetime.date(SKANDERBEG_BIRTH_YEAR, SKANDERBEG_BIRTH_MONTH, SKANDERBEG_BIRTH_DAY)
-    end_date = datetime.date(SKANDERBEG_DEATH_YEAR, SKANDERBEG_DEATH_MONTH, SKANDERBEG_DEATH_DAY)
-
-    if start_date > end_date:
-        print("Error: Skanderbeg's birth date is after his death date in configuration.")
-        sys.exit(1)
-
+# --- Helper Functions ---
+def get_random_date_for_ai_context():
+    start_date = datetime.date(SKANDERBEG_BIRTH_YEAR_CONTEXT, SKANDERBEG_BIRTH_MONTH_CONTEXT, SKANDERBEG_BIRTH_DAY_CONTEXT)
+    end_date = datetime.date(SKANDERBEG_DEATH_YEAR_CONTEXT, SKANDERBEG_DEATH_MONTH_CONTEXT, SKANDERBEG_DEATH_DAY_CONTEXT)
+    if start_date > end_date: sys.exit("Error: Context birth date is after death date.")
     time_difference = end_date - start_date
     total_days_in_period = time_difference.days
-
-    if total_days_in_period < 0:
-        print("Error: Calculated negative days in Skanderbeg's lifespan.")
-        sys.exit(1)
-    if total_days_in_period == 0:
-        return start_date
-
+    if total_days_in_period < 0: sys.exit("Error: Negative days in context lifespan.")
+    if total_days_in_period == 0: return start_date
     random_number_of_days = random.randint(0, total_days_in_period)
-    random_date = start_date + datetime.timedelta(days=random_number_of_days)
-    return random_date
+    return start_date + datetime.timedelta(days=random_number_of_days)
+
+def sanitize_filename_part(text_part, max_length=80):
+    if not text_part: return ""
+    illegal_chars_pattern = r'[<>:"/\\|?*\x00-\x1F#]' # Added # as it's part of H1
+    sanitized = re.sub(illegal_chars_pattern, '', text_part)
+    sanitized = " ".join(sanitized.split()).strip()
+    return sanitized[:max_length].strip()
 
 # --- Main Logic ---
 def generate_post():
@@ -80,125 +73,110 @@ def generate_post():
         genai.configure(api_key=API_KEY)
         model = genai.GenerativeModel(MODEL_NAME)
     except Exception as e:
-        print(f"Error configuring Gemini or creating model: {e}")
-        sys.exit(1)
+        print(f"Error configuring Gemini or creating model: {e}"); sys.exit(1)
 
-    random_historical_date = get_random_date_in_skanderbeg_era()
-    # This is for the YYYY-MM-DD part of the filename
-    filename_date_prefix = random_historical_date.strftime("%Y-%m-%d")
-    print(f"Generated random historical date for post: {filename_date_prefix}")
+    date_for_ai_prompt_context_obj = get_random_date_for_ai_context()
+    
+    # Attempt to set Albanian locale for strftime
+    original_lc_time = locale.getlocale(locale.LC_TIME) # Store original
+    date_for_ai_context_albanian_str = date_for_ai_prompt_context_obj.strftime("%d %B, %Y") # Default if locale fails
 
-    # Try to set locale for Albanian month names if possible (OS dependent)
-    # This helps format the date string passed to the AI.
-    # Common Albanian locales: 'sq_AL.UTF-8', 'sq_AL', 'sq'
-    # If these fail, it will use the system default, AI should still manage.
-    albanian_locales = ['sq_AL.UTF-8', 'sq_AL', 'sq']
-    current_locale_set = False
-    for loc in albanian_locales:
+    # Common Albanian locales: 'sq_AL.UTF-8' (Linux), 'Albanian_Albania.1250' (Windows sometimes)
+    # Or just 'sq' or 'sq_AL'
+    albanian_locales_to_try = ['sq_AL.UTF-8', 'sq_AL', 'sq', 'Albanian_Albania.1250', 'Albanian']
+    locale_set_successfully = False
+    for loc_str in albanian_locales_to_try:
         try:
-            locale.setlocale(locale.LC_TIME, loc)
-            current_locale_set = True
-            print(f"Successfully set locale to {loc} for date formatting.")
-            break
+            locale.setlocale(locale.LC_TIME, loc_str)
+            date_for_ai_context_albanian_str = date_for_ai_prompt_context_obj.strftime("%d %B, %Y")
+            print(f"Successfully set locale to '{loc_str}'. AI date context: '{date_for_ai_context_albanian_str}'")
+            locale_set_successfully = True
+            break # Exit loop once a locale is successfully set
         except locale.Error:
-            print(f"Warning: Locale {loc} not available.")
+            print(f"Warning: Locale '{loc_str}' not available.")
             continue
-    if not current_locale_set:
-        print("Warning: Could not set an Albanian locale. Date format for AI might use default month names.")
+    
+    if not locale_set_successfully:
+        print(f"Warning: Could not set an Albanian locale. Using default system locale for AI date context: '{date_for_ai_context_albanian_str}'")
 
+    # Crucially, reset locale to original after getting the string,
+    # so it doesn't affect other parts of the script or other processes.
+    locale.setlocale(locale.LC_TIME, original_lc_time)
 
-    # Format the date string to pass to the AI for context in the prompt
-    # e.g., "14 Shtator, 1456" or "14 September, 1456" if locale fails
-    date_for_ai_context = random_historical_date.strftime("%d %B, %Y")
-
-    current_prompt = PROMPT_TEMPLATE.format(random_date_for_ai_context=date_for_ai_context)
-
-    print(f"Sending prompt to Gemini model ({MODEL_NAME}) for date {filename_date_prefix}...")
-    # print(f"Full Prompt for AI:\n{current_prompt}\n------------------") # For debugging the full prompt
+    # Pass the (hopefully) Albanian formatted date string to the prompt
+    current_prompt = PROMPT_TEMPLATE.format(random_date_for_ai_context_albanian=date_for_ai_context_albanian_str)
+    print(f"Sending prompt to Gemini ({MODEL_NAME}) with AI date context: '{date_for_ai_context_albanian_str}'...")
 
     try:
         response = model.generate_content(current_prompt)
         generated_text = response.text
     except Exception as e:
-        print(f"Error during Gemini API call: {e}")
-        if hasattr(response, 'prompt_feedback') and response.prompt_feedback:
-            print(f"Prompt Feedback: {response.prompt_feedback}")
-        if hasattr(response, 'candidates') and response.candidates:
-            for candidate in response.candidates:
-                if hasattr(candidate, 'finish_reason') and candidate.finish_reason:
-                    print(f"Candidate Finish Reason: {candidate.finish_reason}")
-                if hasattr(candidate, 'safety_ratings') and candidate.safety_ratings:
-                    print(f"Candidate Safety Ratings: {candidate.safety_ratings}")
-        sys.exit(1)
+        print(f"Error during Gemini API call: {e}"); sys.exit(1)
 
-    if not generated_text:
-        print("Error: Gemini returned an empty response.")
-        sys.exit(1)
-
+    if not generated_text: print("Error: Gemini returned an empty response."); sys.exit(1)
     print("Gemini response received.")
 
-    # --- Updated Filename Generation ---
-    ai_generated_title_part = FILENAME_PREFIX # Fallback
+    filename_date_prefix = "UNDATED"
+    filename_title_part_from_ai = FILENAME_TITLE_FALLBACK
+
     try:
         first_line = generated_text.split('\n', 1)[0]
         if first_line.startswith("# "):
-            # Extract the text after "# "
-            title_text_from_ai = first_line.lstrip("# ").strip()
-            print(f"Extracted H1 title from AI: '{title_text_from_ai}'")
+            h1_title_from_ai = first_line.lstrip("# ").strip()
+            print(f"Extracted H1 title from AI: '{h1_title_from_ai}'")
 
-            if title_text_from_ai: # Ensure it's not empty
-                # Clean for filename: lowercase, remove specific punctuation, remove spaces
-                cleaned_title = title_text_from_ai.lower()
-                # Define punctuation to remove (add more if needed)
-                # Includes common Albanian quotes and standard punctuation
-                punctuation_to_remove = [":", ",", ".", "'", '"', "!", "?", "(", ")", "“", "”", "‘", "’", "«", "»"]
-                for punc in punctuation_to_remove:
-                    cleaned_title = cleaned_title.replace(punc, "")
+            if h1_title_from_ai:
+                # Parse date from AI's H1. dateparser should handle Albanian month names.
+                # Give 'sq' (Albanian) as a language hint.
+                parsed_date_object = dateparser.parse(h1_title_from_ai, languages=['sq', 'en'], settings={'PREFER_DATES_FROM': 'past', 'STRICT_PARSING': False})
+                
+                title_text_for_filename = h1_title_from_ai
 
-                # Replace spaces with nothing (no hyphens)
-                cleaned_title = cleaned_title.replace(" ", "")
-                # Remove any leading/trailing hyphens that might have formed if punctuation was next to space
-                cleaned_title = cleaned_title.strip("-")
+                if parsed_date_object:
+                    filename_date_prefix = parsed_date_object.strftime("%Y-%m-%d")
+                    print(f"Using date parsed from AI title for filename prefix: {filename_date_prefix}")
+                    
+                    # Attempt to remove the date part from the H1 to get the textual title
+                    # This tries to find common separators.
+                    separator_match = re.search(r'^(.{1,35}?)[\s]*[:\-–—][\s]*(.+)$', h1_title_from_ai) # Increased length for date part
+                    title_after_separator_removal = h1_title_from_ai
 
-                # A final check to ensure it's somewhat alphanumeric,
-                # but trying to be gentle with Albanian characters.
-                # This will keep letters (including Albanian ones if system supports unicode) and numbers.
-                final_slug_chars = []
-                for char_val in cleaned_title:
-                    if char_val.isalnum(): # isalnum should handle unicode letters
-                        final_slug_chars.append(char_val)
-                ai_generated_title_part = "".join(final_slug_chars)
-
-
-                if not ai_generated_title_part: # If cleaning resulted in empty string
-                    print("Warning: AI title became empty after cleaning, using default prefix.")
-                    ai_generated_title_part = FILENAME_PREFIX
+                    if separator_match:
+                        potential_date_str = separator_match.group(1).strip()
+                        potential_title_str = separator_match.group(2).strip()
+                        if dateparser.parse(potential_date_str, languages=['sq', 'en']): # Check if first part is a date
+                            title_after_separator_removal = potential_title_str
+                            print(f"Date part likely '{potential_date_str}', using title part: '{title_after_separator_removal}'")
+                        else:
+                            print(f"Part before separator ('{potential_date_str}') did not parse as date. Using full H1 for filename title part.")
+                    else:
+                        print(f"No clear 'Date: Title' separator found in AI H1. The filename title part might still include the date text.")
+                    
+                    title_text_for_filename = title_after_separator_removal
                 else:
-                    print(f"Cleaned title for filename: '{ai_generated_title_part}'")
+                    print(f"Warning: Could not parse date from AI H1 title ('{h1_title_from_ai}'). Using '{filename_date_prefix}' prefix.")
+                
+                filename_title_part_from_ai = sanitize_filename_part(title_text_for_filename)
             else:
-                print("Warning: AI H1 title was empty after stripping '# '. Using default prefix.")
+                print("Warning: AI H1 title was empty. Using fallbacks.")
         else:
-            print("Warning: AI response did not start with an H1 ('# '). Using default prefix for filename.")
-
+            print("Warning: AI response did not start with an H1. Using fallbacks.")
     except Exception as e:
-        print(f"Error processing AI title for filename: {e}. Using default prefix.")
+        print(f"Error processing AI title for filename: {e}. Using fallbacks.")
 
-    # Construct the filename: YYYY-MM-DD-cleanedaititle.md
-    # Limit the length of the AI-generated part to keep filenames manageable
-    filename = f"{filename_date_prefix}-{ai_generated_title_part[:80]}.md"
+    if not filename_title_part_from_ai:
+        filename_title_part_from_ai = FILENAME_TITLE_FALLBACK
+
+    filename = f"{filename_date_prefix} {filename_title_part_from_ai}.md"
+    filename = re.sub(r'\s+', ' ', filename).strip()
 
     filepath = os.path.join(OUTPUT_DIR, filename)
-
-    # Create output directory if it doesn't exist (recursive)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(generated_text)
-
     print(f"Blog post saved to: {filepath}")
     return filepath
 
 if __name__ == "__main__":
     generated_file = generate_post()
-    # This print is crucial for the GitHub Action to capture the filename
     print(f"::set-output name=generated_filepath::{generated_file}")
