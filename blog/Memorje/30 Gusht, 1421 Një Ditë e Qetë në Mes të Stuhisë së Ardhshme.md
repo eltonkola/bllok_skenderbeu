@@ -1,0 +1,17 @@
+---
+date: "2025-08-01"
+---
+
+# 30 Gusht, 1421: Një Ditë e Qetë në Mes të Stuhisë së Ardhshme
+
+Era e ngrohtë e verës përplaste lehtë dritaren time, duke pëshpëritur fshehtësi në vesh. Një ditë tjetër ka mbaruar në Krujë, një ditë që në pamje të parë nuk dallon nga mijëra të tjera që kam kaluar në këtë kalë të vjetër, por që në thellësi mban një ndjenjë të çuditshme, një paralajmërim të paqartë për të ardhmen.  Jam 14 vjeç,  dhe edhe pse lufta ende nuk më ka prekur drejtpërdrejt, hija e saj shtrihet mbi gjithçka.
+
+Ditët e mia janë të mbushura me trajnime të ashpra. Babai, Gjon Kastrioti, këmbëngul që ne, unë dhe vëllezërit e mi, të jemi gati për çdo gjë.  Shpata, shigjeta, kalërimi, lufta me shtizë,  të gjitha këto janë pjesë e jetës sonë të përditshme. Nuk është gjithmonë e lehtë.  Dorët më dhembin, trupi im djeg nga lodhja, por e di se kjo është e domosdoshme.  Nuk mund të jetë thjesht një jetë e rehatshme fisnike.  Kjo tokë, kjo Shqipëri, ka nevojë për mbrojtës, dhe unë jam i vendosur të jem një prej tyre.
+
+Sot, trajnimi ishte veçanërisht i vështirë. Mësuesi im, një veteran i shumë betejave,  më sëmurte pa mëshirë, duke më shtyrë deri në limitet e mia fizike.  Nga ana tjetër, ai më dha gjithashtu këshilla të mençura, duke më mësuar jo vetëm teknikat e luftës, por edhe rëndësinë e strategjisë, të disiplinës, të kurajos.  Ai më tha se lufta nuk është vetëm forcë fizike, por edhe forcë mendore.  Duhet të mendoj strategjikisht, të parashikoj lëvizjet e armikut, të shfrytëzoj çdo avantazh të mundshëm.  Këto fjalë janë të ngulitura thellë në mendjen time.
+
+Pasdite, kam kaluar kohë në bibliotekë. Babai, edhe pse një njeri i luftës, vlerëson shumë dijen.  Ai ka një koleksion të pasur librish, dhe gjithmonë më inkurajon të lexoj. Sot kam lexuar për historinë e romakëve, për betejat e tyre madhështore, për strategjitë e tyre ushtarake.  Histori të tilla, të mbushura me heronj dhe tradhtarë, me fitore dhe humbje, më frymëzojnë dhe më bëjnë të kuptoj se jeta nuk është gjithmonë e thjeshtë, dhe se duhet të jesh i gatshëm të përballesh me sfidat.
+
+Më vonë, kam takuar disa nga shokët e mi. Kemi luajtur lojëra, kemi folur për gjëra të ndryshme. Por edhe në këtë kohë të lehtësisë, hija e luftës është pranishme.  Bisetat tona shpesh kthehen në diskutime për situatën politike të vendit, për tensionet midis shqiptarëve dhe pushtuesve osmanë, për ambiciet e Perandorisë së madhe.  Ata janë të vetëdijshëm për rreziqet që na kanosim, për fatkeqësitë që mund të ndodhin.  Të gjithë jemi të bindur se së shpejti do të ndodhë diçka e madhe.
+
+Mbrëmja po bie.  Nga dritarja shikoj Krujën e ndriçuar nga hëna, një qytet i vogël por i fortë, i vendosur në zemër të maleve të larta.  Ky është shtëpia ime, vendi im, vendi për të cilin jam i gatshëm të luftoj, vendi për të cilin jam gati të jap jetën time.  Por nuk dua të mendoj për luftë sonte.  Dua të gjej pak qetësi, pak paqe, para se nata të më çojë në ëndrra të trazuara, të mbushura me shpata, shigjeta dhe zërin e trumbetave.  Më duhet të përgatitem për betejat e ardhshme, për një luftë që di që së shpejti do të na godet me forcën e saj të egër. Në thellësi të zemrës sime, ndihem i vendosur, i gatshëm të përballem me të ardhmen, pa marrë parasysh se çfarë rezervon ajo.  Dua të jem një nga ata që do të mbrojnë këtë tokë nga çdo armik, pavarësisht nga çmimi.  Dhe kjo është një premtim që i bëj vetes sonte, nën dritën e hënës mbi Krujë.
